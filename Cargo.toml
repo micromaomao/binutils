@@ -1,5 +1,8 @@
 [package]
 name = "binutils"
+description = "Binary & hex utilities for quick command line hacking"
+license = "MIT"
+repository = "https://github.com/micromaomao/binutils"
 version = "0.1.0"
 authors = ["Mao Wtm <m@maowtm.org>"]
 edition = "2018"
